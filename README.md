@@ -1,4 +1,4 @@
-# Tesi: coerenza dei pazienti virtuali generati da LLM
+# Tesi: coerenza dei pazienti virtuali generati da LLM - discussa 8 aprile 2026
 
 Analisi delle sessioni di due pazienti simulati (Alex, Juanita).
 
