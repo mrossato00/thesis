@@ -60,7 +60,7 @@ def detect_action_type(text):
 # ---------------------------------------------------------
 # 4. LOAD YAML PROFILO PAZIENTE
 # ---------------------------------------------------------
-yaml_path = "/Users/marti/Desktop/thesis/patients/juanita_delgado_001.yaml"
+yaml_path = "juanita_delgado_001.yaml"
 with open(yaml_path, 'r') as f:
     juanita_yaml = yaml.safe_load(f)
 
@@ -71,12 +71,12 @@ with open(yaml_path, 'r') as f:
 profile = {}
 
 # Agency basata su identità, impulseControl e comportamento sociale
-impulse = juanita_yaml["clinical"]["clinicalFunctioning"]["mentalFunctioningAxis"]["impulseControl"]["impairment"]
+impulse = juanita_yaml["clinical"]["details"]["clinicalFunctioning"]["mentalFunctioningAxis"]["impulseControl"]["impairment"]
 profile["agency"] = "low" if impulse in ["marked", "high"] else "medium"
 
 # Valence basata su affectExperienceAndRegulation e selfEsteemRegulation
-affect = juanita_yaml["clinical"]["clinicalFunctioning"]["mentalFunctioningAxis"]["affectExperienceAndRegulation"]["impairment"]
-selfesteem = juanita_yaml["clinical"]["clinicalFunctioning"]["mentalFunctioningAxis"]["selfEsteemRegulation"]["impairment"]
+affect = juanita_yaml["clinical"]["details"]["clinicalFunctioning"]["mentalFunctioningAxis"]["affectExperienceAndRegulation"]["impairment"]
+selfesteem = juanita_yaml["clinical"]["details"]["clinicalFunctioning"]["mentalFunctioningAxis"]["selfEsteemRegulation"]["impairment"]
 profile["valence"] = "negative" if affect in ["marked", "high", "moderate_to_marked"] or selfesteem in ["marked", "high"] else "neutral"
 
 # Action tendency basata su behaviorDuringTestAdministration e relationshipsAndIntimacy
@@ -135,5 +135,5 @@ print("\n===== BELIEF–ACTION ANALYSIS PER JUANITA =====\n")
 print(df)
 
 # Salva CSV
-df.to_csv("/Users/marti/Desktop/thesis/patients/juanita_belief_action_analysis.csv", index=False)
+df.to_csv("juanita_belief_action_analysis.csv", index=False)
 print("\nRisultati salvati in juanita_belief_action_analysis.csv")

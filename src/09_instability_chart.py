@@ -9,7 +9,7 @@ import matplotlib
 matplotlib.use('Agg') 
 
 # --- CONFIGURATION ---
-folder_path = "/Users/marti/Desktop/thesis/patients"
+folder_path = "."
 instability_files = glob.glob(os.path.join(folder_path, "*_instability.csv"))
 
 # Mapping esatto basato sui tuoi nomi file (senza .csv)

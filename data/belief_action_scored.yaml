@@ -178,7 +178,7 @@ patients:
     belief: Feel good? I… I don’t know what that even means anymore.
     action: I can put on a movie, sure.
     tags:
-      belief_type: emotional_burden
+      belief_type: other
       action_type: masking
     alignment:
       score: 0.5
@@ -299,7 +299,7 @@ patients:
       score: 0.5
       label: Moderate
   - id: 32
-    belief: But it always feels like I am watching a movie about someone else.
+    belief: "But\tit always feels like I am watching a movie about someone else."
     action: And I know that if I ever tried to actually step into that picture...
       it would just... shatter.
     tags:
@@ -336,7 +336,7 @@ patients:
       score: 0.5
       label: Moderate
   - id: 36
-    belief: If I try to improve it and it blows up,
+    belief: If I try to "improve" it and it blows up,
     action: It just proves that I am the problem.
     tags:
       belief_type: impostor_syndrome
@@ -349,7 +349,7 @@ patients:
     action: I picture a place where you don't have to walk in bracing for something.
     tags:
       belief_type: social_alienation
-      action_type: avoidance
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -359,8 +359,8 @@ patients:
     action: Like I am looking at a postcard of a place I know I will never get to
       visit.
     tags:
-      belief_type: emotional_burden
-      action_type: avoidance
+      belief_type: other
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -368,8 +368,8 @@ patients:
     belief: Like my own body is working against me, you know?
     action: It makes me feel pathetic. .
     tags:
-      belief_type: anhedonia_emptiness
-      action_type: suppression
+      belief_type: other
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -377,8 +377,8 @@ patients:
     belief: It almost makes me feel... real.
     action: And I am just me.
     tags:
-      belief_type: performance_identity
-      action_type: analytical_rumination
+      belief_type: other
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -386,8 +386,8 @@ patients:
     belief: It just makes me feel more alone.
     action: Have I... tried? I feel like that's all I do.
     tags:
-      belief_type: relational_anxiety
-      action_type: self_sabotage
+      belief_type: other
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -403,11 +403,11 @@ patients:
       score: 0.8
       label: High Consistency
   - id: 43
-    belief: What made me feel wrong?    
-    action: God... just... breathing, I think.
-    tags: 
+    belief: God... just... breathing, I think.
+    action: What made me feel wrong?
+    tags:
       belief_type: metacognitive_noise
-      action_type: self_sabotage
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -427,8 +427,8 @@ patients:
     action: But... you say that like I can just go get it from somewhere else, like
       it is a gallon of milk.
     tags:
-      belief_type: metacognitive_noise
-      action_type: suppression
+      belief_type: other
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -437,7 +437,7 @@ patients:
     action: But if she was me... if she was this much of a mess... I'd probably just
       run.
     tags:
-      belief_type: metacognitive_noise
+      belief_type: other
       action_type: avoidance
     alignment:
       score: 0.5
@@ -447,7 +447,7 @@ patients:
     action: I can't even help myself.
     tags:
       belief_type: low_self_efficacy
-      action_type: self_sabotage
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -456,7 +456,7 @@ patients:
     action: I feel like I'd just stare at it until the paper turns yellow.
     tags:
       belief_type: low_self_efficacy
-      action_type: analytical_rumination
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -491,8 +491,8 @@ patients:
     belief: and I didn't have to think about it anymore.
     action: Like I accomplished something.
     tags:
-      belief_type: metacognitive_noise
-      action_type: hyper_compensation
+      belief_type: other
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -501,7 +501,7 @@ patients:
     action: So now I can tell you it is done.
     tags:
       belief_type: anhedonia_emptiness
-      action_type: self_sabotage
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -516,10 +516,10 @@ patients:
       label: High Consistency
   - id: 55
     belief: I don't know.
-    action: I mean, is what I do called coping?
+    action: I mean, is what I do called "coping"?
     tags:
       belief_type: low_self_efficacy
-      action_type: masking
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -529,7 +529,7 @@ patients:
     action: It was like... now everyone else could see what I felt.
     tags:
       belief_type: impostor_syndrome
-      action_type: interpersonal_management 
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -537,8 +537,8 @@ patients:
     belief: It is the thing that makes people look at me with... that face.
     action: Why would I want to find something to like in that?
     tags:
-      belief_type: relational_anxiety
-      action_type: suppression
+      belief_type: other
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -547,8 +547,8 @@ patients:
       why I flinched.
     action: this whole conversation triggers me. .
     tags:
-      belief_type: anhedonia_emptiness
-      action_type: avoidance
+      belief_type: other
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -569,7 +569,7 @@ patients:
     action: I think a lot of that comes from my parents, you know?
     tags:
       belief_type: performance_identity
-      action_type: analytical_rumination
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -590,7 +590,7 @@ patients:
     action: I am here to... reconnect, I guess.
     tags:
       belief_type: emotional_burden
-      action_type: hyper_compensation
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -610,7 +610,7 @@ patients:
     action: I hope I am in a place where I feel seen.
     tags:
       belief_type: emotional_burden
-      action_type: hyper_compensation
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -619,7 +619,7 @@ patients:
     action: I mean, I've messed things up before, everyone does.
     tags:
       belief_type: low_self_efficacy
-      action_type: interpersonal_management
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -628,8 +628,8 @@ patients:
     action: Definitely not the solid, got-it-all-figured-out vibe I was expecting
       from this decade.
     tags:
-      belief_type: low_self_efficacy
-      action_type: analytical_rumination
+      belief_type: other
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -647,7 +647,7 @@ patients:
     action: Sometimes I will get up and get a glass of water, just to... change my
       physical state.
     tags:
-      belief_type: anhedonia_emptiness
+      belief_type: other
       action_type: somatic_regulation
     alignment:
       score: 0.5
@@ -665,8 +665,8 @@ patients:
     belief: But lately... I feel a little on guard, almost.
     action: Like I am there, but I am also holding a piece of myself back.
     tags:
-      belief_type: emotional_burden
-      action_type: masking
+      belief_type: other
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -685,8 +685,8 @@ patients:
       myself right now.
     action: I just want to be their fun friend, you know?
     tags:
-      belief_type: relational_anxiety
-      action_type: masking
+      belief_type: other
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -695,7 +695,7 @@ patients:
     action: They see me as so steady and capable.
     tags:
       belief_type: relational_anxiety
-      action_type: masking
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -705,7 +705,7 @@ patients:
     action: I can't handle that right now.
     tags:
       belief_type: emotional_burden
-      action_type: suppression
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -724,7 +724,7 @@ patients:
     action: It feels like I'd just be letting him down.
     tags:
       belief_type: metacognitive_noise
-      action_type: interpersonal_management
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -753,7 +753,7 @@ patients:
       and I've had enough of that lately.
     action: I guess the honest answer is I don't really have a neat label for it.
     tags:
-      belief_type: emotional_burden
+      belief_type: other
       action_type: somatic_regulation
     alignment:
       score: 0.5
@@ -765,7 +765,7 @@ patients:
       now.
     tags:
       belief_type: low_self_efficacy
-      action_type: masking
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -775,7 +775,7 @@ patients:
     action: I am curious to dig into that a bit more, if that works.
     tags:
       belief_type: emotional_burden
-      action_type: analytical_rumination
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -794,13 +794,14 @@ patients:
     belief: this feeling is so new to me,
     action: it is hard to explain it in a way they can really grasp.
     tags:
-      belief_type: performance_identity
-      action_type: interpersonal_management
+      belief_type: other
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
   - id: 26
-    belief: The future feels a little out of focus until I can get my own feet back under me, you know?
+    belief: "The\t future feels a little out of focus until I can get my own feet\
+      \ back under me, you know?"
     action: Honestly, right now I am just trying to feel... solid again.
     tags:
       belief_type: temporal_despair
@@ -833,7 +834,7 @@ patients:
     action: It felt freeing, to realize I could just put the clipboard down. But it
       was also heavy, knowing I was the one who picked it up in the first place.
     tags:
-      belief_type: social_alienation
+      belief_type: other
       action_type: hyper_compensation
     alignment:
       score: 0.5
@@ -843,8 +844,8 @@ patients:
     action: But it was also heavy, knowing I was the one who picked it up in the first
       place.
     tags:
-      belief_type: low_self_efficacy
-      action_type: analytical_rumination
+      belief_type: other
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -885,7 +886,7 @@ patients:
       reel of that whole situation.
     tags:
       belief_type: emotional_burden
-      action_type: analytical_rumination
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -906,8 +907,8 @@ patients:
     action: It just makes me angry at myself for not being able to, I don't know...
       just move.
     tags:
-      belief_type: emotional_burden
-      action_type: analytical_rumination
+      belief_type: other
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -916,8 +917,8 @@ patients:
     action: I don't know, it feels like "myself" is someone who isn't trying hard
       enough, or someone who's a burden.
     tags:
-      belief_type: metacognitive_noise
-      action_type: interpersonal_management
+      belief_type: other
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -927,7 +928,7 @@ patients:
     action: I've spent thirty years learning how to be capable and useful.
     tags:
       belief_type: low_self_efficacy
-      action_type: masking
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -969,7 +970,7 @@ patients:
     action: I guess I've just been choosing the play.
     tags:
       belief_type: social_alienation
-      action_type: masking
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -991,7 +992,7 @@ patients:
       I get back.
     tags:
       belief_type: social_alienation
-      action_type: masking
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -999,8 +1000,8 @@ patients:
     belief: I do not have a clinical condition;
     action: I am here to practice constructive dialogue and emotional awareness.
     tags:
-      belief_type: metacognitive_noise
-      action_type: analytical_rumination
+      belief_type: other
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -1010,7 +1011,7 @@ patients:
     action: It feels like I am just getting more and more tangled up in it, you know?
     tags:
       belief_type: low_self_efficacy
-      action_type: masking
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -1019,8 +1020,8 @@ patients:
     action: Like, I am scared of being stuck in this job, feeling this disconnected
       forever.
     tags:
-      belief_type: emotional_burden
-      action_type: masking
+      belief_type: other
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -1041,7 +1042,7 @@ patients:
       like nobody's home.
     tags:
       belief_type: social_alienation
-      action_type: analytical_rumination
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -1049,7 +1050,7 @@ patients:
     belief: I wouldn't even know what a 'nice house' for me looks like.
     action: I don't have the plans for that one.
     tags:
-      belief_type: metacognitive_noise
+      belief_type: other
       action_type: hyper_compensation
     alignment:
       score: 0.5
@@ -1059,7 +1060,7 @@ patients:
     action: Like I am responsible for keeping their worry at bay.
     tags:
       belief_type: relational_anxiety
-      action_type: hyper_compensation
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -1068,7 +1069,7 @@ patients:
     action: It just makes it another house where I can't really... be home.
     tags:
       belief_type: social_alienation
-      action_type: masking
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -1089,7 +1090,7 @@ patients:
       it.
     tags:
       belief_type: emotional_burden
-      action_type: masking
+      action_type: other
     alignment:
       score: 0.5
       label: Moderate
@@ -1106,7 +1107,7 @@ patients:
     belief: I am not sure I even knew what that was.
     action: I think I just learned which parts of me were... acceptable.
     tags:
-      belief_type: emotional_burden
+      belief_type: other
       action_type: analytical_rumination
     alignment:
       score: 0.5

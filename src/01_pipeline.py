@@ -15,7 +15,7 @@ nltk.download('punkt', quiet=True)
 # ==========================
 # 1. Percorsi
 # ==========================
-folder_path = "/Users/marti/Desktop/thesis/patients"
+folder_path = "."
 pattern = os.path.join(folder_path, "*_sessions.docx")
 files = glob.glob(pattern)
 

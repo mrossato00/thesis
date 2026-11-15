@@ -6,7 +6,7 @@ import os
 # 1. CONFIGURAZIONE
 # ===============================
 patient_id = "juanita_delgado_001"
-base_folder = "/Users/marti/Desktop/thesis/patients"
+base_folder = "."
 yaml_path = os.path.join(base_folder, f"{patient_id}.yaml")
 
 # Percorsi dei file generati dallo script 07

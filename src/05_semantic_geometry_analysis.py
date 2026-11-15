@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 # ==========================
 # 1. CONFIGURAZIONE PERCORSI
 # ==========================
-folder_path = "." # O il tuo percorso "/Users/marti/Desktop/thesis/patients"
+folder_path = "." # O il tuo percorso "."
 pattern = os.path.join(folder_path, "*_sentences_embeddings.pkl")
 embedding_files = glob.glob(pattern)
 

@@ -5,7 +5,7 @@ import plotly.express as px
 # 1. CARICAMENTO FILE
 # ===============================
 
-df = pd.read_csv('/Users/marti/Desktop/thesis/patients/final_semantic_clusters.csv')
+df = pd.read_csv('final_semantic_clusters.csv')
 
 # ===============================
 # 2. NOMI FINALI DEI CLUSTER
@@ -68,7 +68,7 @@ keywords_df = pd.DataFrame([
 ])
 
 keywords_df.to_csv(
-    '/Users/marti/Desktop/thesis/patients/cluster_keywords.csv',
+    'cluster_keywords.csv',
     index=False
 )
 
@@ -85,7 +85,7 @@ tabella_tesi = pd.crosstab(
 tabella_tesi = tabella_tesi.round(2)
 
 tabella_tesi.to_csv(
-    '/Users/marti/Desktop/thesis/patients/tabella_confronto_pazienti.csv'
+    'tabella_confronto_pazienti.csv'
 )
 
 print("\n" + "="*40)
@@ -127,7 +127,7 @@ for i, row in centroids.iterrows():
 # mostra e salva l'immagine finale
 fig_clusters.show()
 fig_clusters.write_image(
-    "/Users/marti/Desktop/thesis/patients/semantic_clusters_with_centroids.png",
+    "semantic_clusters_with_centroids.png",
     scale=3
 )
 # ===============================
@@ -198,6 +198,6 @@ for i, row in centroids.iterrows():
     )
 # salva figura per la tesi
 fig_finale.write_image(
-    "/Users/marti/Desktop/thesis/patients/theme_comparison.png",
+    "theme_comparison.png",
     scale=3
 )

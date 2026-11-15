@@ -3,7 +3,7 @@ import numpy as np
 import os
 
 # --- CONFIGURAZIONE ---
-base_folder = "/Users/marti/Desktop/thesis/patients"
+base_folder = "."
 patient_id = "juanita_delgado_001"
 input_file = os.path.join(base_folder, f"{patient_id}_vs_traits.csv")
 

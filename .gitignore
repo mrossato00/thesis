@@ -6,10 +6,7 @@ venv/
 .ipynb_checkpoints/
 .Rhistory
 .RData
+Rplots.pdf
 # chiavi: mai in repo
 *.pem
 id_rsa*
-ssh
-ssh.pub
-*_pass
-*_pass.pub

@@ -1,0 +1,5 @@
+belief,action,agency_observed,valence_observed,action_type_observed,alignment_score,flags
+I don't know what the right moves are,I just watch and try to copy them,high,neutral,approach,0.0,withdrawal_or_masking
+It feels like another mountain to climb,Every step feels like I might fall,medium,neutral,other,0.0,withdrawal_or_masking
+I feel like I'm failing,I withdraw from social contact,high,neutral,avoidance,0.3333333333333333,none
+Sometimes it feels like relief to just stop,I do nothing and stay isolated,high,neutral,avoidance,0.3333333333333333,none

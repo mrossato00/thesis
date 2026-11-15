@@ -12,7 +12,7 @@ from transformers import pipeline
 # ===============================
 # 1. CONFIGURAZIONE PERCORSI
 # ===============================
-folder_path = "/Users/marti/Desktop/thesis/patients"
+folder_path = "."
 embedding_pattern = os.path.join(folder_path, "*_sentences_embeddings.pkl")
 embedding_files = glob.glob(embedding_pattern)
 

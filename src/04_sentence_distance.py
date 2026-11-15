@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # ---------- 1. Setup ----------
-folder_path = "/Users/marti/Desktop/thesis/patients"
+folder_path = "."
 pattern = os.path.join(folder_path, "*_sentences_embeddings.pkl")
 embedding_files = glob.glob(pattern)
 

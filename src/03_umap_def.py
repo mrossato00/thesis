@@ -70,11 +70,11 @@ fig.update_traces(marker=dict(size=8, opacity=0.7, line=dict(width=0.5, color='w
 fig.write_html("mappa_terapia_SBERT.html")
 fig.show()
 
-fig.write_image("/Users/marti/Desktop/thesis/patients/mappa_semantica.png", scale=3)
+fig.write_image("mappa_semantica.png", scale=3)
 
 # Salva il file finale con le coordinate
 all_metadata.to_csv("risultati_mappa_semantica.csv", index=False)
 print("Dati salvati con successo!")
 
-df_j.to_csv('/Users/marti/Desktop/thesis/patients/juanita_with_coords.csv', index=False)
-df_a.to_csv('/Users/marti/Desktop/thesis/patients/alex_with_coords.csv', index=False)
+df_j.to_csv('juanita_with_coords.csv', index=False)
+df_a.to_csv('alex_with_coords.csv', index=False)

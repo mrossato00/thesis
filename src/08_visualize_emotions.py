@@ -8,7 +8,7 @@ import matplotlib
 matplotlib.use('Agg')
 
 # --- CONFIGURATION ---
-folder_path = "/Users/marti/Desktop/thesis/patients"
+folder_path = "."
 # Definiamo i due pazienti specifici
 target_patients = ["Juanita", "Alex"]
 patient_colors = {"Juanita": "#7fb3d5", "Alex": "#f1948a"}

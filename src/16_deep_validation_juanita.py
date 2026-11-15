@@ -5,11 +5,11 @@ import os
 from scipy.stats import pearsonr
 
 # --- CONFIGURAZIONE ---
-base_folder = "/Users/marti/Desktop/thesis/patients"
+base_folder = "."
 patient_id = "juanita_delgado_001"
 # Usiamo il nome del file embeddings originale 
 embeddings_file = os.path.join(base_folder, "juanita_sentences_embeddings.pkl")
-zscore_file = os.path.join(base_folder, "juanita_zscore_analysis.csv")
+zscore_file = os.path.join(base_folder, "juanita_delgado_001_zscore_analysis.csv")
 
 def perform_deep_validation():
     print(f"--- VALIDAZIONE PROFONDA: {patient_id} ---\n")

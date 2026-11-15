@@ -9,7 +9,7 @@ import matplotlib
 matplotlib.use('Agg')
 
 # --- CONFIGURATION ---
-base_folder = "/Users/marti/Desktop/thesis/patients"
+base_folder = "."
 patient_id = "Juanita" # Usiamo il nome coerente con il tuo dizionario colori
 input_file = os.path.join(base_folder, "juanita_delgado_001_vs_traits.csv")
 output_file = os.path.join(base_folder, "juanita_zscore_matched_style.png")
