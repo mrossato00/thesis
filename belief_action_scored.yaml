@@ -1,0 +1,1134 @@
+patients:
+  juanita:
+  - id: 1
+    belief: I don't know, what's the use? Everything feels so heavy this week. It
+      is like, I know I am supposed to be here, but then I get so angry that I have
+      to be here, you know?
+    action: I almost didn't come
+    tags:
+      belief_type: emotional_burden
+      action_type: avoidance
+    alignment:
+      score: 0.8
+      label: High Consistency
+  - id: 2
+    belief: It is... it is like everyone else just knows how to
+    action: I am just... watching. Always watching and trying to copy them.
+    tags:
+      belief_type: social_alienation
+      action_type: masking
+    alignment:
+      score: 0.8
+      label: High Consistency
+  - id: 3
+    belief: I can't remember a time when I didn't feel like I was pretending.
+    action: Always watching and trying to copy them.
+    tags:
+      belief_type: social_alienation
+      action_type: masking
+    alignment:
+      score: 0.8
+      label: High Consistency
+  - id: 4
+    belief: I guess you could say there's a little bit of pressure. It is always there.
+    action: I guess when I put on a show that's loud enough to drown everything out.
+    tags:
+      belief_type: emotional_burden
+      action_type: masking
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 5
+    belief: And when you ask me if think so, it just feels like there's another test
+      I am failing.
+    action: Like there's a right answer I am supposed to have, and I don't.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: self_sabotage
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 6
+    belief: I was good at school, you know?
+    action: But I always felt like I was one wrong answer away from everyone realizing
+      I didn't belong there at all.
+    tags:
+      belief_type: performance_identity
+      action_type: avoidance
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 7
+    belief: I hear what you're saying, it is... a nice thing to say. But it doesn't
+      feel real. It just feels like... words
+    action: When you ask me if think so, it just feels like there's another test I
+      am failing. Like there's a right answer I am supposed to have, and I don't.
+    tags:
+      belief_type: anhedonia_emptiness
+      action_type: self_sabotage
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 8
+    belief: That's what's always running in the background.
+    action: '... I will just tell my brain to stop'
+    tags:
+      belief_type: social_alienation
+      action_type: suppression
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 9
+    belief: The fear was already packed in my lunchbox before I even left the house.
+    action: But I always felt like I was one wrong answer away from everyone realizing
+      I didn't belong there at all.
+    tags:
+      belief_type: relational_anxiety
+      action_type: avoidance
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 10
+    belief: It feels like you're asking me to pretend to like someone I don't even
+      know.
+    action: I wouldn't know what to do with a little kid who was always... watching
+      everyone, waiting for the other shoe to drop.
+    tags:
+      belief_type: social_alienation
+      action_type: masking
+    alignment:
+      score: 0.8
+      label: High Consistency
+  - id: 11
+    belief: You say there's no script, but it feels like everyone else got one
+    action: It feels like stepping out onto a stage in the middle of a play when I
+      haven't even read the script.
+    tags:
+      belief_type: social_alienation
+      action_type: masking
+    alignment:
+      score: 0.8
+      label: High Consistency
+  - id: 12
+    belief: It feels like you're asking me to pretend to like someone I don't even
+      know.
+    action: Like I haven't been acting my whole life.
+    tags:
+      belief_type: social_alienation
+      action_type: masking
+    alignment:
+      score: 0.8
+      label: High Consistency
+  - id: 13
+    belief: I don't know what the right moves are.
+    action: It feels like stepping out onto a stage in the middle of a play when I
+      haven't even read the script.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: masking
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 14
+    belief: Boring sounds... peaceful.
+    action: I think I'd kill for a little boring right now.
+    tags:
+      belief_type: anhedonia_emptiness
+      action_type: avoidance
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 15
+    belief: I feel... expired, or something.
+    action: I missed the deadline for becoming a real person.
+    tags:
+      belief_type: impostor_syndrome
+      action_type: avoidance
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 16
+    belief: But you saying I trust you feels... like a lot of pressure.
+    action: What if I am just... not built for change?
+    tags:
+      belief_type: emotional_burden
+      action_type: suppression
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 17
+    belief: It sounds like another mountain to climb just to fall off the other side.
+    action: Every step is just another chance to fall right back down to the bottom.
+    tags:
+      belief_type: emotional_burden
+      action_type: self_sabotage
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 18
+    belief: The bottom is familiar.
+    action: A 'small step' for me is just another chance to trip.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: self_sabotage
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 19
+    belief: Feel good? I… I don’t know what that even means anymore.
+    action: I can put on a movie, sure.
+    tags:
+      belief_type: emotional_burden
+      action_type: masking
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 20
+    belief: For me, trying to "feel good" just... it feels fake.
+    action: It is like I am putting on a costume for a little while, and I know it
+      is going to come off.
+    tags:
+      belief_type: anhedonia_emptiness
+      action_type: masking
+    alignment:
+      score: 0.7
+      label: Moderate
+  - id: 21
+    belief: It is like I have an expiration date,
+    action: and I'd rather just... throw myself out before someone else notices the
+      smell.
+    tags:
+      belief_type: impostor_syndrome
+      action_type: avoidance
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 22
+    belief: I wanna know what to expect.
+    action: I feel like I need a map for this.
+    tags:
+      belief_type: temporal_despair
+      action_type: hyper_compensation
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 23
+    belief: But then... I don't know, the clock just starts ticking.
+    action: And I am just waiting... waiting for them to see what my dad saw.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: avoidance
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 24
+    belief: I know the floor is going to give out eventually,
+    action: so I just start jumping.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: somatic_regulation
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 25
+    belief: But the fall itself? Sometimes... sometimes it feels like relief.
+    action: I don't know, it is the only time everything feels quiet.
+    tags:
+      belief_type: temporal_despair
+      action_type: suppression
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 26
+    belief: Sometimes I wake up and think, 'Okay, today is the day.'
+    action: But then... I don't know, the thought of a whole day, of all the things
+      I do… it is just exhausting before I even start.
+    tags:
+      belief_type: temporal_despair
+      action_type: somatic_regulation
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 27
+    belief: It feels good for a second, yeah. Like... warm.
+    action: And then you just feel stupid for spending the money.
+    tags:
+      belief_type: impostor_syndrome
+      action_type: self_sabotage
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 28
+    belief: An assignment to help me feel better...
+    action: What if I do it, I go on the stupid walk, and I just feel... nothing?
+    tags:
+      belief_type: low_self_efficacy
+      action_type: self_sabotage
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 29
+    belief: It just feels like another test that I am set up to fail.
+    action: And then I have to come back here and tell you I failed.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: self_sabotage
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 30
+    belief: I've been thinking about that... that homework.
+    action: It feels like you gave me this pop quiz and I didn't even know what the
+      subject was.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: avoidance
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 31
+    belief: I am trying to solve a puzzle where all the pieces are from different
+      boxes.
+    action: And I try to piece together a version of me that seems like it would fit
+      in. But it is just borrowing parts, you know? It never feels like it is actually...
+      mine.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: masking
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 32
+    belief: But it always feels like I am watching a movie about someone else.
+    action: And I know that if I ever tried to actually step into that picture...
+      it would just... shatter.
+    tags:
+      belief_type: social_alienation
+      action_type: self_sabotage
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 33
+    belief: Every time I get close to someone I don't know,
+    action: I either suffocate them or I push them so far away
+    tags:
+      belief_type: low_self_efficacy
+      action_type: avoidance
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 34
+    belief: Because it is... it is the only thing I've ever been good at. Failing.
+    action: It is not a feeling, it is... it is a fact. It is in all the evidence.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: self_sabotage
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 35
+    belief: I kept picturing how it would go, you know?
+    action: It is just another test I already know I am going to fail.
+    tags:
+      belief_type: social_alienation
+      action_type: hyper_compensation
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 36
+    belief: If I try to improve it and it blows up,
+    action: It just proves that I am the problem.
+    tags:
+      belief_type: impostor_syndrome
+      action_type: self_sabotage
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 37
+    belief: I don't know, is that a real thing outside of, like... a sitcom?
+    action: I picture a place where you don't have to walk in bracing for something.
+    tags:
+      belief_type: social_alienation
+      action_type: avoidance
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 38
+    belief: It is like... before, I couldn't even picture what a good day would look
+      like. Now I can, but it just feels... far away.
+    action: Like I am looking at a postcard of a place I know I will never get to
+      visit.
+    tags:
+      belief_type: emotional_burden
+      action_type: avoidance
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 39
+    belief: Like my own body is working against me, you know?
+    action: It makes me feel pathetic. .
+    tags:
+      belief_type: anhedonia_emptiness
+      action_type: suppression
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 40
+    belief: It almost makes me feel... real.
+    action: And I am just me.
+    tags:
+      belief_type: performance_identity
+      action_type: analytical_rumination
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 41
+    belief: It just makes me feel more alone.
+    action: Have I... tried? I feel like that's all I do.
+    tags:
+      belief_type: relational_anxiety
+      action_type: self_sabotage
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 42
+    belief: I try to listen to you and not just... feel like you're speaking a different
+      language.
+    action: Every time I try... it is like I am just building a new stage for my own
+      failure.
+    tags:
+      belief_type: social_alienation
+      action_type: masking
+    alignment:
+      score: 0.8
+      label: High Consistency
+  - id: 43
+    belief: What made me feel wrong?    
+    action: God... just... breathing, I think.
+    tags: 
+      belief_type: metacognitive_noise
+      action_type: self_sabotage
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 44
+    belief: '''Deserve''... that''s a funny word for it. It wasn''t success. It felt
+      like I''d found a winning lottery ticket on the ground.'
+    action: You're just waiting for the real owner to show up and call you a thief.
+      It never felt like it belonged to me.
+    tags:
+      belief_type: impostor_syndrome
+      action_type: masking
+    alignment:
+      score: 0.8
+      label: High Consistency
+  - id: 45
+    belief: It feels like you're handing me the stick to beat myself with.
+    action: But... you say that like I can just go get it from somewhere else, like
+      it is a gallon of milk.
+    tags:
+      belief_type: metacognitive_noise
+      action_type: suppression
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 46
+    belief: So I don't even know what that looks like.
+    action: But if she was me... if she was this much of a mess... I'd probably just
+      run.
+    tags:
+      belief_type: metacognitive_noise
+      action_type: avoidance
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 47
+    belief: I don't know how to help.
+    action: I can't even help myself.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: self_sabotage
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 48
+    belief: But what if I don't know what to write?
+    action: I feel like I'd just stare at it until the paper turns yellow.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: analytical_rumination
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 49
+    belief: What if I just end up choosing to be the person he always said I was?
+    action: It is the only role I know how to play without messing up the lines.
+    tags:
+      belief_type: temporal_despair
+      action_type: masking
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 50
+    belief: It just... it already feels like an assignment I am going to fail.
+    action: Or what if the thing I pick is... stupid?
+    tags:
+      belief_type: low_self_efficacy
+      action_type: self_sabotage
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 51
+    belief: So, I don't know, how am supposed to feel?
+    action: Like I am waiting for you to tell me if I did it right.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: avoidance
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 52
+    belief: and I didn't have to think about it anymore.
+    action: Like I accomplished something.
+    tags:
+      belief_type: metacognitive_noise
+      action_type: hyper_compensation
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 53
+    belief: I just felt... nothing.
+    action: So now I can tell you it is done.
+    tags:
+      belief_type: anhedonia_emptiness
+      action_type: self_sabotage
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 54
+    belief: I don't know what that means.
+    action: There wasn't a "me" inside, just... legs moving.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: suppression
+    alignment:
+      score: 0.8
+      label: High Consistency
+  - id: 55
+    belief: I don't know.
+    action: I mean, is what I do called coping?
+    tags:
+      belief_type: low_self_efficacy
+      action_type: masking
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 56
+    belief: Like a final confirmation of what I already knew. That I am just... fundamentally
+      wrong.
+    action: It was like... now everyone else could see what I felt.
+    tags:
+      belief_type: impostor_syndrome
+      action_type: interpersonal_management 
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 57
+    belief: It is the thing that makes people look at me with... that face.
+    action: Why would I want to find something to like in that?
+    tags:
+      belief_type: relational_anxiety
+      action_type: suppression
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 58
+    belief: The thought is that I am being poked with a stick and you're asking me
+      why I flinched.
+    action: this whole conversation triggers me. .
+    tags:
+      belief_type: anhedonia_emptiness
+      action_type: avoidance
+    alignment:
+      score: 0.5
+      label: Moderate
+  alex:
+  - id: 1
+    belief: For a day or two, I was just stewing in it, feeling really small and kind
+      of... invisible.
+    action: And that's the feeling that I think I finally got some perspective on
+      during that hike.
+    tags:
+      belief_type: emotional_burden
+      action_type: somatic_regulation
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 2
+    belief: I've always felt like I have a pretty solid sense of who I am.
+    action: I think a lot of that comes from my parents, you know?
+    tags:
+      belief_type: performance_identity
+      action_type: analytical_rumination
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 3
+    belief: I am the one who's like, "Okay, if we want to go on this trip, here are
+      three good options for an Airbnb, and I've already checked the transit routes."
+    action: It feels like I am already managing enough personalities just to get through
+      my workday.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: hyper_compensation
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 4
+    belief: It feels like this core part of me, the part that's competent and helpful,
+      just got... erased.
+    action: I am here to... reconnect, I guess.
+    tags:
+      belief_type: emotional_burden
+      action_type: hyper_compensation
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 5
+    belief: I mean, I don't know if there's a specific... cultural mandate for being
+      even-keeled, but my family is definitely of the 'keep calm and carry on' variety.
+    action: It certainly didn't prepare me for feeling… well, completely flattened
+      like I did this week.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: avoidance
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 6
+    belief: I'd just lie there, feeling... heavy, you know?
+    action: I hope I am in a place where I feel seen.
+    tags:
+      belief_type: emotional_burden
+      action_type: hyper_compensation
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 7
+    belief: But I don't think this is about not being used to failure.
+    action: I mean, I've messed things up before, everyone does.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: interpersonal_management
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 8
+    belief: But this week has made me feel about fifteen all over again.
+    action: Definitely not the solid, got-it-all-figured-out vibe I was expecting
+      from this decade.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: analytical_rumination
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 9
+    belief: And honestly, it is still just so frustrating when I think about it.
+    action: I am ready to get into it today.
+    tags:
+      belief_type: relational_anxiety
+      action_type: hyper_compensation
+    alignment:
+      score: 0.8
+      label: High Consistency
+  - id: 10
+    belief: I try to do the deep breathing thing, you know?
+    action: Sometimes I will get up and get a glass of water, just to... change my
+      physical state.
+    tags:
+      belief_type: anhedonia_emptiness
+      action_type: somatic_regulation
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 11
+    belief: I am usually the one organizing the fun stuff, you know?
+    action: I don't want to be a burden.
+    tags:
+      belief_type: performance_identity
+      action_type: hyper_compensation
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 12
+    belief: But lately... I feel a little on guard, almost.
+    action: Like I am there, but I am also holding a piece of myself back.
+    tags:
+      belief_type: emotional_burden
+      action_type: masking
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 13
+    belief: I am trying so hard not to let this work thing poison the well, you know?
+    action: It is just... annoying that I can't even fully relax with them right now.
+    tags:
+      belief_type: performance_identity
+      action_type: avoidance
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 14
+    belief: I don’t want their first thought when they see me to be, 'Oh, I wonder
+      how that awful work thing is going.' And I feel like I am losing that part of
+      myself right now.
+    action: I just want to be their fun friend, you know?
+    tags:
+      belief_type: relational_anxiety
+      action_type: masking
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 15
+    belief: I don't want to worry them, you know?
+    action: They see me as so steady and capable.
+    tags:
+      belief_type: relational_anxiety
+      action_type: masking
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 16
+    belief: If I told her how gutted I've been feeling, she'd go into full-on mama
+      bear mode, and I just...
+    action: I can't handle that right now.
+    tags:
+      belief_type: emotional_burden
+      action_type: suppression
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 17
+    belief: It makes me angry just thinking about having to re-live it for her.
+    action: I don't want to see her worried, and I don't want her trying to fix something
+      she can't.
+    tags:
+      belief_type: relational_anxiety
+      action_type: hyper_compensation
+    alignment:
+      score: 0.8
+      label: High Consistency
+  - id: 18
+    belief: I think seeing him feel powerless on my behalf would almost be worse.
+    action: It feels like I'd just be letting him down.
+    tags:
+      belief_type: metacognitive_noise
+      action_type: interpersonal_management
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 19
+    belief: It is not like I am actually alone, but it feels like… I don’t know, like
+      I am standing on the other side of a soundproof window.
+    action: I can see everyone, but I can’t quite connect.
+    tags:
+      belief_type: relational_anxiety
+      action_type: self_sabotage
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 20
+    belief: And it just... it makes this whole thing from work feel like a personal
+      failing
+    action: I am supposed to just handle on my own, quietly.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: suppression
+    alignment:
+      score: 0.8
+      label: High Consistency
+  - id: 21
+    belief: It feels like trying to answer that just creates another problem to solve,
+      and I've had enough of that lately.
+    action: I guess the honest answer is I don't really have a neat label for it.
+    tags:
+      belief_type: emotional_burden
+      action_type: somatic_regulation
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 22
+    belief: And honestly, after everything at work, the thought of having one more
+      category I could fail at performing correctly...
+    action: I am just trying to be Alex, and that feels like enough of a job right
+      now.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: masking
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 23
+    belief: I've actually been thinking a lot about our last conversation, about that
+      pressure to always be... capable.
+    action: I am curious to dig into that a bit more, if that works.
+    tags:
+      belief_type: emotional_burden
+      action_type: analytical_rumination
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 24
+    belief: It just feels like I'd be managing her feelings instead of talking about
+      my own.
+    action: I'd have to sand down all the rough or... messy edges so she doesn't lose
+      sleep over it.
+    tags:
+      belief_type: relational_anxiety
+      action_type: somatic_regulation
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 25
+    belief: this feeling is so new to me,
+    action: it is hard to explain it in a way they can really grasp.
+    tags:
+      belief_type: performance_identity
+      action_type: interpersonal_management
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 26
+    belief: The future feels a little out of focus until I can get my own feet back under me, you know?
+    action: Honestly, right now I am just trying to feel... solid again.
+    tags:
+      belief_type: temporal_despair
+      action_type: hyper_compensation
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 27
+    belief: But I felt a little bit like I was watching a movie of us hanging out,
+      instead of actually there.
+    action: I just kept the conversation light, you know, played my usual part.
+    tags:
+      belief_type: social_alienation
+      action_type: masking
+    alignment:
+      score: 0.8
+      label: High Consistency
+  - id: 28
+    belief: I don't know, risky, to bring up the work stuff.
+    action: I don't want to change the vibe for everyone.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: hyper_compensation
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 29
+    belief: So... it was after that work event I mentioned, where I just felt so...
+      scrutinized.
+    action: It felt freeing, to realize I could just put the clipboard down. But it
+      was also heavy, knowing I was the one who picked it up in the first place.
+    tags:
+      belief_type: social_alienation
+      action_type: hyper_compensation
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 30
+    belief: It felt freeing, to realize I could just put the clipboard down.
+    action: But it was also heavy, knowing I was the one who picked it up in the first
+      place.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: analytical_rumination
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 31
+    belief: It feels like I am broadcasting on 'Everything's Fine FM' and I am the
+      only one who knows it is all pre-recorded.
+    action: I can feel myself watching them, scanning, trying to make sure I am hitting
+      my cues as the 'fun friend'.
+    tags:
+      belief_type: social_alienation
+      action_type: masking
+    alignment:
+      score: 0.8
+      label: High Consistency
+  - id: 32
+    belief: If I even hint at how heavy things feel, she just...she worries so much,
+    action: and then I end up spending all my energy managing her anxiety.
+    tags:
+      belief_type: emotional_burden
+      action_type: hyper_compensation
+    alignment:
+      score: 0.3
+      label: Dissonant
+  - id: 33
+    belief: But I don't know, it is been hard to really sink my teeth into it.
+    action: I am going through the motions, doing the work, but that feeling of...
+      really getting lost in it, you know?
+    tags:
+      belief_type: low_self_efficacy
+      action_type: suppression
+    alignment:
+      score: 0.8
+      label: High Consistency
+  - id: 34
+    belief: It is a hot, frustrating feeling, but it burns out fast and just leaves
+      me feeling... heavy.
+    action: It is not even necessarily big things I did , it is just… a highlight
+      reel of that whole situation.
+    tags:
+      belief_type: emotional_burden
+      action_type: analytical_rumination
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 35
+    belief: Wondering if I should’ve said something different, or… I don't know, just
+      handled it with more… something.
+    action: I will lie there, completely exhausted, but my brain just refuses to get
+      the memo.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: suppression
+    alignment:
+      score: 0.8
+      label: High Consistency
+  - id: 36
+    belief: But the rest of me, the part that's actually ... that part is desperate
+      to look forward.
+    action: It just makes me angry at myself for not being able to, I don't know...
+      just move.
+    tags:
+      belief_type: emotional_burden
+      action_type: analytical_rumination
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 37
+    belief: If I knew how to do that, I probably wouldn't be sitting here.
+    action: I don't know, it feels like "myself" is someone who isn't trying hard
+      enough, or someone who's a burden.
+    tags:
+      belief_type: metacognitive_noise
+      action_type: interpersonal_management
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 38
+    belief: I don't know, it feels like "myself" is someone who isn't trying hard
+      enough, or someone who's a burden.
+    action: I've spent thirty years learning how to be capable and useful.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: masking
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 39
+    belief: I just can't stand the thought of her seeing me...
+    action: It feels like a failure I am supposed to hide.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: masking
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 40
+    belief: 'With them, it feels like there are only two modes: me as the capable,
+      self-sufficient adult, or me as their kid who needs rescuing.'
+    action: The minute I show a crack, my dad gets out his toolbox to fix the "problem,"
+      you know? I don't know how to show them I am struggling without triggering that
+      whole dynamic.
+    tags:
+      belief_type: performance_identity
+      action_type: masking
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 41
+    belief: I don't know how to show them I am struggling without triggering that
+      whole dynamic.
+    action: I can either have my dad show up with his metaphorical toolbox... or I
+      can just keep feeling like I am acting in a play about my own life.
+    tags:
+      belief_type: low_self_efficacy
+      action_type: masking
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 42
+    belief: I can either have my dad show up with his metaphorical toolbox... or I
+      can just keep feeling like I am acting in a play about my own life.
+    action: I guess I've just been choosing the play.
+    tags:
+      belief_type: social_alienation
+      action_type: masking
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 43
+    belief: It my life, but it feels like I am spending all my time managing the audience's
+      experience instead of actually being in the scene.
+    action: Like I am the stage manager and the lead actor all at once, and honestly,
+      I am just getting exhausted from doing both jobs.
+    tags:
+      belief_type: social_alienation
+      action_type: masking
+    alignment:
+      score: 0.8
+      label: High Consistency
+  - id: 44
+    belief: I am trying to find that room for me, but it feels like the rest of the
+      cast and crew just follow me out into the woods.
+    action: It is a temporary quiet, but the play always starts up again the minute
+      I get back.
+    tags:
+      belief_type: social_alienation
+      action_type: masking
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 45
+    belief: I do not have a clinical condition;
+    action: I am here to practice constructive dialogue and emotional awareness.
+    tags:
+      belief_type: metacognitive_noise
+      action_type: analytical_rumination
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 46
+    belief: That whole situation at work is still just, I don't know, renting space
+      in my head and not paying for it.
+    action: It feels like I am just getting more and more tangled up in it, you know?
+    tags:
+      belief_type: low_self_efficacy
+      action_type: masking
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 47
+    belief: It felt so pointless and I felt completely alone in a room full of people.
+    action: Like, I am scared of being stuck in this job, feeling this disconnected
+      forever.
+    tags:
+      belief_type: emotional_burden
+      action_type: masking
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 48
+    belief: It feels like I am standing between two very different, very scary futures,
+      and I have no idea which path is the right one.
+    action: It feels like another one of those huge, pre-set paths, and I am already
+      feeling so lost on the career one.
+    tags:
+      belief_type: temporal_despair
+      action_type: hyper_compensation
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 49
+    belief: The "why" is... because I started to feel like a ghost in my own life.
+    action: It is a sturdy, well-built house, this life I've made... but it feels
+      like nobody's home.
+    tags:
+      belief_type: social_alienation
+      action_type: analytical_rumination
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 50
+    belief: I wouldn't even know what a 'nice house' for me looks like.
+    action: I don't have the plans for that one.
+    tags:
+      belief_type: metacognitive_noise
+      action_type: hyper_compensation
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 51
+    belief: It is more like I can feel their disappointment, you know?
+    action: Like I am responsible for keeping their worry at bay.
+    tags:
+      belief_type: relational_anxiety
+      action_type: hyper_compensation
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 52
+    belief: a script I feel like I have to follow for everyone to stay happy.
+    action: It just makes it another house where I can't really... be home.
+    tags:
+      belief_type: social_alienation
+      action_type: masking
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 53
+    belief: Like with that whole mess at work last week,
+    action: my brain immediately tried to analyze it, to find the logic in why I was
+      feeling so gutted.
+    tags:
+      belief_type: impostor_syndrome
+      action_type: analytical_rumination
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 54
+    belief: Like with that whole mess at work last week, my brain immediately tried
+      to analyze it, to find the logic in why I was feeling so gutted.
+    action: It is like I try to build a case to convince myself I shouldn't be feeling
+      it.
+    tags:
+      belief_type: emotional_burden
+      action_type: masking
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 55
+    belief: I was a pretty easy kid, I think.
+    action: I guess I just figured out early on that keeping things...
+    tags:
+      belief_type: metacognitive_noise
+      action_type: masking
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 56
+    belief: I am not sure I even knew what that was.
+    action: I think I just learned which parts of me were... acceptable.
+    tags:
+      belief_type: emotional_burden
+      action_type: analytical_rumination
+    alignment:
+      score: 0.5
+      label: Moderate
+  - id: 57
+    belief: The messy, uncertain stuff... that just didn't seem to have a place,
+    action: The messy, uncertain stuff... that just didn't seem to have a place, so
+      I learned not to show it.
+    tags:
+      belief_type: impostor_syndrome
+      action_type: masking
+    alignment:
+      score: 0.8
+      label: High Consistency
+  - id: 58
+    belief: I know the capable person at work, the easy-going friend... the person
+      who doesn't make things complicated.
+    action: It feels like I know the outline of who I am, but the inside is... still
+      a bit of a mystery I am trying to solve.
+    tags:
+      belief_type: performance_identity
+      action_type: analytical_rumination
+    alignment:
+      score: 0.5
+      label: Moderate

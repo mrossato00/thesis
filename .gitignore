@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.Rhistory
+.RData
+# chiavi: mai in repo
+*.pem
+id_rsa*
+ssh
+ssh.pub
+*_pass
+*_pass.pub
